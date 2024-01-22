@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "name": "Enia",
+      "surname": "Çerri",
+      "password": "enia123",
+      "email": "cerri_enia@hotmail.com",
+      "id": 1
+    }
+  ],
+  "transactions": [
+    {
+      "category": "Transport",
+      "userId": 1,
+      "amount": "240",
+      "currency": "ALL",
+      "date": "2023-12-13",
+      "id": 35
+    },
+    {
+      "category": "Home",
+      "userId": 1,
+      "amount": "2000",
+      "currency": "ALL",
+      "date": "2023-12-10",
+      "id": 36
+    },
+    {
+      "category": "Extra Income",
+      "userId": 1,
+      "amount": "40000",
+      "currency": "ALL",
+      "date": "2023-12-01",
+      "id": 37
+    }
+  ]
+}
